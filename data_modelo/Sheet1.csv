@@ -1,0 +1,501 @@
+﻿visitId,fullVisitorId,date,visitStartTime,channelGrouping,source,medium,deviceCategory,browser,operatingSystem,isMobile,continent,country,city,transactionRevenue,sessionDuration,pageViews,visitNumber,isReturningVisitor,firstVisitDate
+3019408,5708326877,20231223,1703330561,Email,youtube,(none),mobile,Opera,Android,False,South America,Brazil,São Paulo,0,986,1,2,True,20231024
+1581146,3698283367,20230524,1684959439,Direct,youtube,referral,desktop,Edge,Android,True,Europe,Germany,Berlin,0,261,2,2,True,20230210
+8969089,8302424417,20230308,1678276307,Email,direct,cpc,mobile,Edge,Macintosh,False,South America,Brazil,São Paulo,0,1102,4,5,True,20230210
+4964896,6433287352,20231101,1698801820,Email,bing,organic,desktop,Safari,Linux,True,North America,USA,New York,0,97,1,3,True,20230208
+8905857,8610834162,20230904,1693829893,Referral,google,email,desktop,Chrome,Linux,True,Oceania,Australia,Sydney,0,320,10,2,True,20230504
+5271770,6530089267,20230623,1687528524,Social,bing,organic,desktop,Safari,Linux,False,Oceania,Australia,Sydney,7438,621,10,3,True,20230523
+9524545,3787640861,20230611,1686504742,Email,bing,referral,mobile,Firefox,Linux,False,North America,USA,New York,0,643,1,4,True,20230528
+6902975,4555352748,20230823,1692795321,Direct,newsletter,organic,desktop,Opera,Windows,True,Oceania,Australia,Sydney,0,1078,1,5,True,20230807
+2676208,5324087821,20230802,1690990856,Direct,facebook,email,desktop,Safari,Windows,True,Europe,Spain,Madrid,9766,972,1,3,True,20230616
+6403880,3132901566,20230429,1682786043,Referral,bing,email,mobile,Firefox,Windows,False,Europe,Spain,Madrid,0,597,6,5,True,20230302
+4904953,1394346115,20230226,1677400539,Referral,newsletter,organic,desktop,Chrome,Macintosh,True,Europe,Germany,Berlin,0,26,5,5,True,20230203
+9016295,1458089673,20231113,1699872684,Social,bing,cpc,desktop,Opera,Windows,True,Europe,Spain,Madrid,0,94,3,3,True,20221225
+9196754,5762156296,20230904,1693796336,Paid Search,youtube,organic,tablet,Chrome,Macintosh,True,Europe,Germany,Berlin,0,58,1,2,True,20230814
+5718819,1464459327,20231013,1697210138,Email,bing,email,desktop,Chrome,Linux,True,North America,USA,New York,0,362,10,4,True,20230429
+3533494,2798540994,20231012,1697084769,Social,youtube,organic,desktop,Safari,Windows,True,Asia,India,Nueva Delhi,0,58,9,2,True,20230307
+1266759,7925250885,20230704,1688509235,Social,bing,referral,mobile,Opera,iOS,True,Europe,Spain,Madrid,4357,1097,7,3,True,20230401
+4087030,3379791186,20231219,1702978444,Display,direct,(none),tablet,Chrome,iOS,False,Europe,Spain,Madrid,0,373,7,5,True,20230705
+6683357,3260490361,20230815,1692101566,Social,direct,referral,desktop,Firefox,Macintosh,False,Europe,Spain,Madrid,16037,268,7,2,True,20230503
+5799091,5034587985,20230119,1674109713,Email,direct,(none),desktop,Firefox,Android,False,South America,Brazil,São Paulo,0,297,7,3,True,20221230
+1068506,8982665046,20230104,1672820458,Display,facebook,email,tablet,Firefox,Linux,False,Oceania,Australia,Sydney,0,635,6,2,True,20221203
+4149861,8319585567,20230921,1695336304,Direct,newsletter,cpc,mobile,Safari,iOS,False,Oceania,Australia,Sydney,11075,48,4,2,True,20230214
+9401756,1050081096,20230126,1674719035,Social,google,email,mobile,Chrome,Windows,True,Europe,Germany,Berlin,15021,874,7,4,True,20230108
+9096007,7860762562,20230106,1672973279,Email,google,organic,desktop,Firefox,iOS,False,South America,Brazil,São Paulo,8028,439,6,4,True,20221205
+4659971,9348342627,20230920,1695206573,Email,direct,cpc,mobile,Safari,Windows,True,Europe,Germany,Berlin,0,1185,7,3,True,20230707
+5045149,2475381489,20230624,1687641480,Display,google,email,tablet,Firefox,Linux,True,North America,USA,New York,8130,871,3,1,False,20230422
+2557614,3136112787,20230311,1678509670,Display,direct,email,tablet,Opera,Windows,True,Oceania,Australia,Sydney,5815,99,4,3,True,20230126
+5361070,4864009086,20230523,1684821867,Social,youtube,organic,tablet,Chrome,Android,True,Oceania,Australia,Sydney,0,926,2,2,True,20230205
+3675648,4368953793,20231019,1697730097,Paid Search,youtube,organic,desktop,Safari,Windows,False,Europe,Spain,Madrid,3936,1171,2,2,True,20221213
+5502674,6291254266,20231028,1698524705,Email,youtube,organic,mobile,Safari,Macintosh,False,Oceania,Australia,Sydney,0,804,8,1,False,20230127
+6523736,8310676511,20230623,1687529380,Referral,facebook,referral,desktop,Firefox,Windows,False,Oceania,Australia,Sydney,17502,65,7,3,True,20230604
+3531715,4589694938,20230719,1689799416,Email,google,organic,mobile,Chrome,Windows,True,Europe,Spain,Madrid,0,416,4,2,True,20230410
+1582763,8480575659,20230820,1692565137,Display,direct,cpc,tablet,Edge,Linux,False,Europe,Spain,Madrid,0,1131,9,3,True,20230529
+7100459,7097439621,20230526,1685072883,Referral,bing,cpc,mobile,Opera,Linux,False,Europe,Germany,Berlin,19709,921,9,1,False,20230211
+4241839,8999054215,20230802,1690977597,Paid Search,newsletter,organic,mobile,Firefox,Android,True,North America,USA,New York,0,687,3,3,True,20230729
+5253579,4624458481,20230113,1673591047,Display,bing,organic,tablet,Chrome,Linux,True,Europe,Spain,Madrid,19551,798,9,3,True,20221229
+8131058,5201313977,20230408,1680928080,Direct,youtube,email,tablet,Edge,Linux,False,South America,Brazil,São Paulo,0,108,8,4,True,20230111
+3693866,7978895862,20230905,1693907843,Direct,bing,(none),tablet,Firefox,Android,False,Oceania,Australia,Sydney,16141,116,7,3,True,20230617
+8411274,7500563092,20230207,1675730197,Referral,youtube,(none),mobile,Edge,Windows,False,Europe,Spain,Madrid,0,198,8,2,True,20221222
+9288702,9186560316,20230721,1689952224,Paid Search,youtube,email,desktop,Firefox,Macintosh,True,South America,Brazil,São Paulo,12732,853,5,3,True,20221216
+8565346,6566085910,20230109,1673242864,Display,facebook,referral,tablet,Firefox,Windows,True,Europe,Germany,Berlin,1145,872,9,2,True,20221204
+1278410,9461068861,20230824,1692851275,Paid Search,direct,(none),desktop,Safari,Android,False,North America,USA,New York,0,958,6,3,True,20230519
+5009926,5053516044,20230526,1685117657,Organic Search,youtube,referral,desktop,Edge,Linux,True,Oceania,Australia,Sydney,0,326,7,5,True,20230307
+3181113,6294871094,20230820,1692494642,Social,newsletter,referral,mobile,Firefox,Linux,True,Asia,India,Nueva Delhi,0,128,8,2,True,20230729
+1508913,6654799371,20230525,1684987253,Direct,newsletter,organic,tablet,Chrome,Macintosh,True,Asia,India,Nueva Delhi,11912,682,6,4,True,20230218
+3367235,8443183607,20231129,1701240695,Email,newsletter,cpc,mobile,Safari,Windows,True,Europe,Germany,Berlin,0,1036,6,3,True,20230728
+1590528,4680740314,20230525,1685031477,Direct,youtube,referral,mobile,Chrome,Windows,True,North America,USA,New York,0,988,8,5,True,20230121
+3043528,9610752836,20230904,1693859056,Social,youtube,referral,tablet,Opera,Android,False,Europe,Spain,Madrid,0,190,1,5,True,20230307
+6231954,8115346459,20231031,1698735350,Referral,newsletter,(none),mobile,Chrome,Android,True,Europe,Spain,Madrid,0,525,9,5,True,20230405
+3342094,1167735444,20230723,1690121032,Organic Search,youtube,(none),mobile,Firefox,Android,True,Europe,Germany,Berlin,0,340,7,4,True,20230706
+1137477,6217164499,20230915,1694801206,Direct,bing,cpc,tablet,Safari,Windows,True,Europe,Spain,Madrid,0,364,10,4,True,20230802
+5277415,7638396661,20231108,1699467866,Social,direct,email,desktop,Firefox,Android,False,Europe,Spain,Madrid,0,428,1,4,True,20230908
+4736851,5622311848,20230129,1674979095,Social,facebook,(none),mobile,Firefox,iOS,False,Europe,Spain,Madrid,0,899,2,4,True,20230106
+9048779,2802901530,20231019,1697699842,Email,facebook,(none),desktop,Opera,Macintosh,False,South America,Brazil,São Paulo,0,515,10,5,True,20230927
+1195795,1779628583,20230830,1693436659,Display,youtube,email,mobile,Firefox,iOS,True,Europe,Germany,Berlin,6248,1126,3,3,True,20230805
+4179938,7601389468,20231217,1702849199,Referral,google,cpc,mobile,Safari,Macintosh,False,Asia,India,Nueva Delhi,0,197,5,3,True,20230915
+3759311,1113279126,20230331,1680265043,Direct,bing,organic,mobile,Opera,Windows,False,North America,USA,New York,0,839,2,3,True,20230101
+1375587,1955513355,20230921,1695291493,Display,newsletter,organic,desktop,Firefox,Android,False,Asia,India,Nueva Delhi,17586,412,5,2,True,20230811
+2677395,1667570649,20230101,1672571292,Paid Search,facebook,(none),mobile,Safari,Macintosh,False,Europe,Spain,Madrid,0,95,8,2,True,20221206
+2437536,7257250152,20230518,1684425740,Paid Search,bing,organic,mobile,Firefox,Windows,False,Asia,India,Nueva Delhi,0,1180,1,2,True,20230310
+6276087,8499515419,20231109,1699517148,Referral,newsletter,(none),tablet,Safari,iOS,True,South America,Brazil,São Paulo,0,942,10,2,True,20230102
+7511107,4373681969,20230731,1690775666,Social,direct,(none),desktop,Firefox,iOS,True,Oceania,Australia,Sydney,0,345,8,1,False,20230405
+3507699,1575883347,20230406,1680763116,Display,youtube,referral,desktop,Safari,Android,False,Asia,India,Nueva Delhi,0,1130,3,5,True,20230111
+7045075,9763608041,20230516,1684277898,Paid Search,bing,cpc,mobile,Firefox,Linux,False,North America,USA,New York,0,497,3,4,True,20230125
+2567874,6009610062,20230502,1682988566,Display,youtube,email,desktop,Edge,Windows,False,Europe,Spain,Madrid,8705,244,10,1,False,20230211
+1710130,1526124551,20231005,1696538959,Direct,facebook,organic,mobile,Safari,Windows,False,South America,Brazil,São Paulo,6731,911,2,1,False,20230113
+1813006,6291338765,20230104,1672831091,Referral,youtube,referral,tablet,Edge,iOS,True,North America,USA,New York,0,805,10,4,True,20221214
+9534102,2494307715,20231013,1697203625,Direct,youtube,referral,mobile,Opera,Windows,True,North America,USA,New York,0,599,4,1,False,20230602
+3403452,5572192637,20230502,1683005782,Direct,youtube,(none),tablet,Firefox,Android,True,Asia,India,Nueva Delhi,0,690,4,5,True,20221220
+1889311,7647541837,20231126,1701038425,Referral,bing,organic,tablet,Opera,iOS,False,Asia,India,Nueva Delhi,0,984,10,1,False,20230516
+7468037,9121561050,20230108,1673156474,Email,bing,email,mobile,Chrome,iOS,True,Asia,India,Nueva Delhi,15342,137,9,4,True,20221227
+9592225,3147372911,20230629,1688025150,Display,facebook,email,tablet,Firefox,Windows,True,South America,Brazil,São Paulo,0,971,1,2,True,20230523
+9602158,4916616799,20230901,1693576673,Referral,bing,(none),mobile,Chrome,Windows,False,Europe,Spain,Madrid,0,598,1,3,True,20230726
+4926073,3782094755,20230104,1672820114,Social,youtube,referral,tablet,Safari,iOS,False,Asia,India,Nueva Delhi,0,477,7,1,False,20221225
+8271574,7567678827,20231006,1696572934,Organic Search,direct,referral,mobile,Edge,Android,False,Oceania,Australia,Sydney,0,907,3,2,True,20230920
+2608065,7761365751,20230727,1690454287,Direct,youtube,email,mobile,Chrome,Macintosh,False,Oceania,Australia,Sydney,11602,524,9,2,True,20230202
+6288738,6773964577,20230527,1685226111,Social,bing,referral,tablet,Chrome,Android,True,Europe,Spain,Madrid,0,715,6,1,False,20230218
+5026491,4222846813,20230510,1683704624,Paid Search,google,cpc,desktop,Safari,iOS,False,North America,USA,New York,0,442,10,1,False,20230109
+9930611,9976450314,20231112,1699799365,Referral,facebook,(none),desktop,Chrome,Windows,False,Oceania,Australia,Sydney,0,529,3,2,True,20230715
+7790869,6377664136,20230517,1684343990,Email,bing,organic,desktop,Firefox,Linux,False,South America,Brazil,São Paulo,0,444,7,1,False,20230213
+9588268,8463923300,20231119,1700431937,Referral,direct,organic,mobile,Firefox,Linux,True,Oceania,Australia,Sydney,0,480,2,3,True,20230429
+1616371,6947758893,20231203,1701628437,Organic Search,direct,organic,tablet,Safari,Macintosh,True,Europe,Spain,Madrid,0,1066,6,4,True,20230318
+2043477,4448326140,20231220,1703041822,Social,facebook,cpc,desktop,Edge,Android,True,Europe,Spain,Madrid,0,844,5,5,True,20230917
+2750705,1921728511,20231107,1699368377,Paid Search,youtube,cpc,tablet,Opera,Windows,True,Oceania,Australia,Sydney,0,719,10,3,True,20230127
+6436660,8072043828,20230302,1677751164,Organic Search,direct,(none),desktop,Chrome,Macintosh,False,Oceania,Australia,Sydney,18533,116,6,1,False,20230227
+4075745,4424832608,20230130,1675047312,Direct,newsletter,(none),tablet,Chrome,iOS,False,Asia,India,Nueva Delhi,9675,923,1,1,False,20221216
+9049011,1490358153,20230919,1695121691,Paid Search,facebook,referral,mobile,Safari,Macintosh,True,Oceania,Australia,Sydney,6925,355,1,4,True,20230725
+2542301,6064980849,20230310,1678434842,Email,google,email,mobile,Chrome,Macintosh,True,Europe,Germany,Berlin,0,152,7,4,True,20221228
+3782942,3878196014,20230912,1694560733,Email,bing,cpc,tablet,Safari,iOS,True,Europe,Germany,Berlin,0,1176,6,5,True,20230410
+9554761,8220034399,20230925,1695613589,Direct,facebook,cpc,desktop,Firefox,Linux,True,Europe,Spain,Madrid,0,594,5,4,True,20230116
+7948147,6841557218,20230520,1684583701,Paid Search,google,email,desktop,Safari,Android,True,Europe,Germany,Berlin,0,93,2,5,True,20221231
+5163202,3044433815,20230304,1677943998,Display,direct,(none),desktop,Edge,iOS,True,South America,Brazil,São Paulo,0,89,3,4,True,20230118
+3679243,8669739934,20231117,1700231214,Direct,facebook,email,mobile,Firefox,Windows,False,North America,USA,New York,4345,676,3,1,False,20230123
+1327364,1443241528,20230914,1694732337,Referral,facebook,(none),desktop,Safari,Windows,False,Europe,Spain,Madrid,0,1070,4,4,True,20230707
+5953547,6918111700,20230109,1673300257,Referral,direct,referral,mobile,Safari,Android,True,North America,USA,New York,3873,1160,10,2,True,20221224
+5892513,1591540101,20231103,1698997419,Email,newsletter,(none),desktop,Chrome,Windows,True,North America,USA,New York,0,154,1,3,True,20230210
+2548927,6576809764,20230704,1688483902,Referral,newsletter,organic,desktop,Opera,Linux,False,Europe,Spain,Madrid,0,1022,1,2,True,20230415
+2633556,5346505437,20230809,1691571502,Referral,youtube,cpc,desktop,Edge,Linux,False,South America,Brazil,São Paulo,0,212,6,1,False,20230410
+6602965,7738144377,20230224,1677220537,Paid Search,google,cpc,mobile,Safari,iOS,False,Asia,India,Nueva Delhi,8468,767,10,1,False,20230127
+5251975,1556390579,20230615,1686867331,Display,direct,(none),mobile,Firefox,Android,True,Europe,Spain,Madrid,7058,756,9,3,True,20230306
+1343072,1973475215,20230801,1690873970,Direct,google,email,desktop,Firefox,Android,True,South America,Brazil,São Paulo,0,915,7,4,True,20230228
+8828537,5830046669,20230823,1692789544,Direct,direct,(none),tablet,Chrome,Macintosh,False,Asia,India,Nueva Delhi,0,605,7,2,True,20230223
+8474808,1243056098,20231010,1696923116,Referral,newsletter,cpc,mobile,Edge,Android,True,South America,Brazil,São Paulo,18799,415,5,3,True,20230421
+5749835,9913062942,20230708,1688799658,Display,direct,referral,tablet,Edge,Android,True,Europe,Germany,Berlin,3456,904,7,1,False,20230208
+7568087,2506767187,20230722,1690000805,Paid Search,google,email,mobile,Chrome,Linux,True,Europe,Spain,Madrid,0,736,9,5,True,20230528
+4460884,6764814020,20230908,1694141833,Email,direct,(none),mobile,Safari,Linux,True,Asia,India,Nueva Delhi,0,964,4,2,True,20221231
+2322273,4706030102,20230728,1690544839,Social,bing,organic,tablet,Chrome,Android,True,North America,USA,New York,0,806,6,3,True,20221223
+1412945,7249251018,20230123,1674496932,Referral,newsletter,(none),mobile,Safari,Linux,True,Europe,Germany,Berlin,16098,497,9,3,True,20221216
+2069221,5484025774,20230816,1692227316,Paid Search,facebook,cpc,mobile,Edge,Windows,True,Oceania,Australia,Sydney,0,216,3,3,True,20221227
+4059709,9253243461,20230428,1682700871,Direct,newsletter,(none),tablet,Firefox,Macintosh,False,Europe,Spain,Madrid,9407,873,6,4,True,20221208
+5751037,8947447171,20230116,1673846294,Organic Search,facebook,referral,tablet,Firefox,Linux,False,Europe,Germany,Berlin,0,949,3,4,True,20230114
+4663510,7547908156,20231014,1697320733,Paid Search,newsletter,referral,tablet,Safari,Windows,True,Europe,Spain,Madrid,11709,455,2,2,True,20230307
+7604790,5838118270,20230122,1674368263,Display,youtube,referral,desktop,Firefox,Android,False,South America,Brazil,São Paulo,0,696,10,1,False,20221229
+7300018,9678792306,20231002,1696248334,Referral,google,(none),desktop,Chrome,Linux,False,Europe,Spain,Madrid,0,104,7,1,False,20230318
+5965333,3114381018,20231009,1696816104,Referral,google,(none),desktop,Opera,Macintosh,False,South America,Brazil,São Paulo,0,1136,10,1,False,20230324
+9316734,6467350478,20230821,1692615073,Organic Search,youtube,(none),tablet,Chrome,Macintosh,False,Europe,Spain,Madrid,0,457,8,3,True,20230427
+9247129,2380215693,20231002,1696206973,Social,google,organic,tablet,Firefox,Macintosh,False,North America,USA,New York,0,944,8,2,True,20230426
+7440451,7121358820,20230429,1682749260,Paid Search,bing,referral,desktop,Chrome,iOS,True,Europe,Spain,Madrid,6625,309,7,5,True,20230415
+6397807,4079175723,20231213,1702459312,Email,google,(none),desktop,Safari,Macintosh,True,Europe,Germany,Berlin,0,873,5,2,True,20230322
+1873850,1780898525,20231102,1698956317,Direct,bing,(none),mobile,Safari,Windows,False,Europe,Spain,Madrid,0,565,7,1,False,20230107
+6063349,9589186998,20230527,1685206360,Social,bing,(none),mobile,Chrome,Windows,False,North America,USA,New York,2744,258,9,5,True,20230116
+3855106,5244314566,20230620,1687265866,Direct,facebook,referral,desktop,Opera,iOS,True,South America,Brazil,São Paulo,0,864,1,5,True,20230316
+8502736,5004642605,20230823,1692794886,Referral,google,cpc,desktop,Edge,Linux,True,North America,USA,New York,0,14,7,1,False,20230103
+4415996,9620797499,20230515,1684163070,Direct,google,email,tablet,Firefox,Linux,False,North America,USA,New York,0,436,7,1,False,20230507
+8241836,1455995159,20230815,1692094414,Direct,youtube,referral,mobile,Safari,Android,False,Europe,Spain,Madrid,8105,697,4,2,True,20230104
+1733332,5085632108,20230523,1684812525,Display,direct,email,desktop,Opera,Linux,False,Asia,India,Nueva Delhi,0,499,10,3,True,20230505
+4607644,7664325440,20230513,1683980808,Organic Search,newsletter,cpc,mobile,Chrome,Linux,True,Europe,Spain,Madrid,0,313,8,2,True,20230103
+9972704,6169766068,20231001,1696173488,Referral,google,referral,mobile,Chrome,iOS,False,South America,Brazil,São Paulo,0,312,9,2,True,20230930
+1593502,2337612167,20230202,1675319101,Email,facebook,(none),mobile,Firefox,Windows,True,Europe,Germany,Berlin,0,537,6,5,True,20230122
+6104927,6051056279,20231221,1703123048,Direct,google,referral,mobile,Chrome,iOS,True,Oceania,Australia,Sydney,0,777,1,2,True,20230821
+5869029,1371843972,20231120,1700487396,Social,newsletter,referral,mobile,Firefox,iOS,True,Oceania,Australia,Sydney,0,711,9,3,True,20230331
+5118309,4819175144,20230103,1672721541,Direct,youtube,referral,desktop,Opera,Linux,False,South America,Brazil,São Paulo,0,1109,6,3,True,20221228
+2096099,6696455972,20231125,1700949894,Referral,facebook,organic,tablet,Opera,Android,True,Europe,Germany,Berlin,0,340,3,3,True,20230424
+8938692,7128354020,20230207,1675747470,Direct,facebook,(none),mobile,Opera,Android,False,South America,Brazil,São Paulo,0,857,4,3,True,20221231
+8898039,6082670741,20230507,1683456837,Referral,google,organic,tablet,Edge,Linux,True,Europe,Germany,Berlin,17809,191,10,3,True,20230115
+8576430,3132557247,20230711,1689107085,Organic Search,facebook,(none),mobile,Opera,Android,True,Oceania,Australia,Sydney,11304,390,8,2,True,20230527
+7472196,9441206555,20230915,1694756815,Paid Search,newsletter,organic,desktop,Opera,Android,False,Oceania,Australia,Sydney,2327,1140,4,1,False,20221205
+6961763,1925723666,20230325,1679720851,Paid Search,direct,(none),desktop,Opera,iOS,False,North America,USA,New York,17780,28,9,3,True,20230111
+5572271,4425943833,20230517,1684342237,Organic Search,facebook,referral,desktop,Edge,iOS,False,Oceania,Australia,Sydney,0,1035,9,3,True,20230206
+9415022,2483022228,20230507,1683503906,Paid Search,youtube,email,mobile,Edge,Android,False,South America,Brazil,São Paulo,0,516,10,5,True,20221230
+6082974,9164302898,20230606,1686057089,Display,google,cpc,mobile,Edge,Android,False,South America,Brazil,São Paulo,0,728,2,4,True,20230226
+8440187,6153552103,20230129,1674993725,Social,bing,cpc,desktop,Opera,Windows,True,Asia,India,Nueva Delhi,6890,810,5,5,True,20221224
+1901885,8580349140,20230727,1690426943,Direct,newsletter,cpc,desktop,Firefox,Windows,False,Oceania,Australia,Sydney,0,786,5,2,True,20230409
+5202269,1225056114,20231013,1697161260,Display,google,(none),desktop,Edge,Macintosh,True,Asia,India,Nueva Delhi,0,1048,2,1,False,20230625
+4364698,2885957311,20230424,1682321556,Email,direct,cpc,desktop,Firefox,iOS,False,Europe,Spain,Madrid,0,352,5,5,True,20230415
+8389506,5516454826,20230509,1683639298,Direct,bing,cpc,desktop,Firefox,Android,True,Asia,India,Nueva Delhi,0,763,8,1,False,20230226
+1632979,8140968736,20230102,1672679098,Social,bing,cpc,mobile,Edge,Linux,False,Asia,India,Nueva Delhi,0,1100,8,3,True,20221215
+7819584,4637881616,20230102,1672632962,Paid Search,direct,organic,mobile,Opera,Android,True,North America,USA,New York,0,1200,2,3,True,20221203
+1167080,8197818255,20231006,1696588292,Direct,youtube,email,desktop,Opera,iOS,True,Europe,Germany,Berlin,5190,16,4,3,True,20230912
+5885287,3392796566,20231114,1699926746,Referral,bing,organic,mobile,Safari,Macintosh,False,South America,Brazil,São Paulo,0,172,1,4,True,20231029
+6069255,5253806523,20231227,1703692699,Referral,youtube,email,tablet,Edge,Android,True,South America,Brazil,São Paulo,0,212,9,3,True,20230618
+8445567,4727734939,20230811,1691753793,Paid Search,newsletter,(none),mobile,Chrome,iOS,False,South America,Brazil,São Paulo,0,924,5,5,True,20230315
+7764839,3977107633,20230716,1689501858,Direct,facebook,cpc,desktop,Chrome,Macintosh,True,Asia,India,Nueva Delhi,0,804,8,2,True,20221209
+3093682,4329065032,20230903,1693702253,Direct,newsletter,organic,tablet,Chrome,Macintosh,True,Europe,Germany,Berlin,0,718,1,1,False,20230129
+6120641,5032636332,20230607,1686138163,Direct,youtube,cpc,mobile,Chrome,iOS,True,South America,Brazil,São Paulo,0,714,6,5,True,20230314
+6051792,6249334196,20231212,1702360492,Paid Search,facebook,organic,tablet,Chrome,Linux,False,South America,Brazil,São Paulo,0,580,6,2,True,20231024
+2118127,9623477425,20230411,1681201403,Paid Search,google,(none),tablet,Safari,iOS,True,North America,USA,New York,0,743,7,1,False,20221213
+9955543,9652035661,20231031,1698747218,Organic Search,newsletter,organic,tablet,Chrome,Windows,False,Europe,Spain,Madrid,0,1028,4,2,True,20230601
+4593936,6960408823,20230731,1690837700,Organic Search,google,email,desktop,Chrome,Windows,True,South America,Brazil,São Paulo,0,1193,9,5,True,20230211
+4976937,4220983148,20231012,1697115600,Display,facebook,cpc,desktop,Edge,Macintosh,True,Asia,India,Nueva Delhi,0,371,2,3,True,20230926
+6069807,2475581640,20230706,1688667544,Paid Search,google,organic,tablet,Safari,iOS,True,North America,USA,New York,0,817,1,3,True,20230420
+4929888,8104082456,20231211,1702277052,Email,youtube,referral,tablet,Firefox,iOS,False,North America,USA,New York,0,269,9,4,True,20231126
+8423401,5849186462,20230829,1693312726,Paid Search,newsletter,cpc,tablet,Edge,Linux,False,Asia,India,Nueva Delhi,0,793,5,4,True,20230807
+2544350,4527322016,20230110,1673311770,Email,google,cpc,desktop,Edge,Macintosh,False,North America,USA,New York,0,50,7,3,True,20230109
+7034564,1846077459,20230107,1673126595,Social,facebook,referral,desktop,Safari,Linux,True,Oceania,Australia,Sydney,0,1006,9,3,True,20221225
+1414672,3598981240,20230722,1690029068,Direct,newsletter,(none),mobile,Firefox,Macintosh,True,Oceania,Australia,Sydney,11847,919,9,1,False,20230125
+3158870,7456799213,20230531,1685568001,Referral,bing,(none),tablet,Safari,Android,True,Europe,Germany,Berlin,0,270,3,5,True,20230519
+8800656,6054175750,20231120,1700462795,Email,google,cpc,mobile,Safari,Macintosh,False,Asia,India,Nueva Delhi,7993,846,9,4,True,20230212
+8578753,7408617317,20230630,1688164814,Email,direct,cpc,desktop,Opera,Macintosh,True,Asia,India,Nueva Delhi,0,98,7,5,True,20230206
+9910611,9125388415,20230903,1693727934,Referral,bing,cpc,tablet,Edge,iOS,False,North America,USA,New York,7525,546,10,3,True,20230415
+1593961,5152337729,20230422,1682181145,Email,facebook,cpc,mobile,Chrome,iOS,True,North America,USA,New York,3044,234,7,2,True,20230204
+1860255,8515145812,20230820,1692509690,Social,facebook,email,tablet,Edge,Macintosh,False,South America,Brazil,São Paulo,9249,1006,8,2,True,20230715
+2062525,9698869231,20230203,1675418450,Email,newsletter,referral,desktop,Safari,iOS,False,Europe,Spain,Madrid,9197,195,6,2,True,20221211
+5763179,1188763474,20230315,1678894235,Display,direct,(none),tablet,Edge,Android,True,Europe,Germany,Berlin,0,250,5,3,True,20230108
+9158309,7395502861,20230608,1686214618,Organic Search,direct,cpc,tablet,Safari,Macintosh,False,Oceania,Australia,Sydney,1060,26,10,2,True,20230111
+8132178,7689119234,20231113,1699899358,Email,youtube,cpc,tablet,Safari,Linux,False,Europe,Germany,Berlin,0,121,1,3,True,20230309
+8964869,5080242544,20230313,1678672499,Display,google,(none),mobile,Edge,Macintosh,True,North America,USA,New York,16919,883,9,1,False,20230310
+5480189,3554449511,20231214,1702549580,Email,facebook,referral,desktop,Opera,Windows,False,South America,Brazil,São Paulo,0,402,6,1,False,20230714
+7524386,1376259694,20230819,1692403511,Direct,newsletter,organic,mobile,Firefox,Windows,False,Europe,Germany,Berlin,0,510,1,2,True,20221231
+1290945,8338438027,20231120,1700504689,Referral,google,(none),tablet,Chrome,iOS,False,Europe,Germany,Berlin,0,199,7,3,True,20231013
+9053083,8607932381,20230517,1684321815,Direct,youtube,organic,mobile,Chrome,Windows,True,South America,Brazil,São Paulo,8380,614,10,5,True,20230226
+8447057,8495761296,20231029,1698620106,Social,facebook,organic,mobile,Edge,iOS,True,Europe,Germany,Berlin,0,536,4,1,False,20230125
+8529840,4971348477,20230207,1675777798,Paid Search,google,email,mobile,Chrome,Macintosh,False,Asia,India,Nueva Delhi,0,279,1,2,True,20230121
+7997348,2424338957,20230422,1682189694,Organic Search,newsletter,(none),desktop,Safari,iOS,True,Europe,Germany,Berlin,2533,1117,7,1,False,20221205
+6075051,9721454926,20231222,1703207575,Organic Search,facebook,organic,desktop,Edge,Android,True,Asia,India,Nueva Delhi,0,169,3,1,False,20230828
+8855474,5889913708,20231228,1703807459,Social,newsletter,(none),tablet,Edge,Windows,True,South America,Brazil,São Paulo,0,415,6,2,True,20231106
+8718562,8902583755,20231103,1699034258,Display,youtube,referral,tablet,Chrome,Macintosh,True,Asia,India,Nueva Delhi,0,1155,4,3,True,20230110
+2175484,3576075175,20230908,1694152477,Direct,youtube,organic,tablet,Safari,iOS,True,Europe,Spain,Madrid,2482,176,8,1,False,20230221
+2800265,6381108132,20231216,1702708243,Paid Search,bing,cpc,mobile,Opera,Linux,False,Europe,Germany,Berlin,13002,151,10,1,False,20221206
+4253886,1506719697,20231229,1703815258,Referral,youtube,(none),desktop,Safari,Windows,False,North America,USA,New York,0,380,2,4,True,20230211
+7178631,5846955372,20230605,1685925659,Direct,facebook,referral,tablet,Opera,Android,False,North America,USA,New York,0,39,6,4,True,20230511
+7364506,8691433404,20231123,1700724258,Referral,youtube,email,tablet,Chrome,iOS,True,South America,Brazil,São Paulo,7712,955,4,1,False,20230527
+2740100,4297658956,20230627,1687880412,Direct,direct,cpc,desktop,Safari,Android,False,North America,USA,New York,0,685,7,3,True,20230501
+7433867,4681989322,20231030,1698663640,Direct,youtube,cpc,desktop,Safari,Windows,False,South America,Brazil,São Paulo,0,434,4,4,True,20230120
+2385020,6444264341,20230704,1688441303,Display,bing,email,desktop,Safari,Windows,False,North America,USA,New York,6587,964,9,3,True,20230418
+6659491,9094725428,20230120,1674257935,Direct,newsletter,cpc,tablet,Opera,Android,False,Europe,Spain,Madrid,14673,556,10,4,True,20230119
+1556824,7479928691,20230323,1679580398,Direct,bing,(none),tablet,Edge,Macintosh,True,Oceania,Australia,Sydney,0,802,1,1,False,20230202
+2798563,9134759402,20231204,1701665408,Display,facebook,referral,desktop,Safari,Linux,False,Asia,India,Nueva Delhi,0,129,3,4,True,20230325
+6181165,3539905634,20231107,1699370897,Social,google,email,desktop,Firefox,Linux,True,South America,Brazil,São Paulo,19223,260,4,3,True,20231106
+7262163,5349577907,20231014,1697293293,Organic Search,bing,organic,mobile,Firefox,Linux,False,Europe,Germany,Berlin,0,920,6,1,False,20230120
+2775625,7705684373,20230303,1677801739,Organic Search,google,organic,tablet,Safari,Windows,False,Europe,Germany,Berlin,0,727,10,1,False,20230105
+8826124,9921290163,20230903,1693772729,Organic Search,bing,organic,desktop,Firefox,iOS,True,Europe,Germany,Berlin,0,854,10,2,True,20230728
+3527780,8542445042,20230413,1681347131,Direct,newsletter,organic,desktop,Edge,Android,False,Asia,India,Nueva Delhi,10335,744,8,5,True,20230409
+1198069,2326379666,20231104,1699076502,Paid Search,direct,cpc,mobile,Edge,iOS,True,North America,USA,New York,3293,159,4,5,True,20230123
+1772981,5207239357,20231101,1698861941,Direct,google,email,tablet,Safari,Windows,False,Europe,Germany,Berlin,16021,1164,1,3,True,20230823
+7917009,5934042159,20231017,1697565391,Social,youtube,email,mobile,Chrome,Macintosh,False,Oceania,Australia,Sydney,0,531,6,5,True,20231017
+3720256,7099287128,20230901,1693545802,Email,google,(none),tablet,Firefox,Android,False,South America,Brazil,São Paulo,0,479,7,5,True,20230418
+3994861,7965011438,20230217,1676611335,Referral,direct,cpc,tablet,Safari,Linux,False,North America,USA,New York,6126,1095,6,2,True,20230205
+5951621,1686729756,20230302,1677790797,Social,direct,referral,desktop,Opera,Macintosh,True,Oceania,Australia,Sydney,3751,377,9,4,True,20230102
+7702314,5325250349,20230618,1687068234,Paid Search,youtube,cpc,desktop,Safari,Android,False,South America,Brazil,São Paulo,0,82,10,5,True,20230120
+8305490,6324002296,20230926,1695732309,Social,facebook,cpc,desktop,Edge,iOS,False,Asia,India,Nueva Delhi,9390,666,7,2,True,20230812
+1141874,2169775586,20230704,1688487976,Display,facebook,organic,mobile,Safari,iOS,True,Europe,Germany,Berlin,3908,405,4,2,True,20230420
+7738152,7591101293,20231024,1698168474,Social,newsletter,email,tablet,Edge,Linux,True,South America,Brazil,São Paulo,0,1141,10,2,True,20230824
+7763152,3656650626,20230912,1694486439,Direct,facebook,email,tablet,Opera,Macintosh,True,South America,Brazil,São Paulo,12129,910,6,1,False,20230205
+1592221,6344299493,20230307,1678209875,Paid Search,newsletter,organic,tablet,Safari,Android,False,Oceania,Australia,Sydney,18897,1057,7,5,True,20230306
+9816427,1134252637,20230125,1674683731,Referral,direct,(none),tablet,Opera,Android,False,Oceania,Australia,Sydney,0,785,2,3,True,20230117
+7463866,6379479279,20230103,1672784573,Referral,direct,cpc,desktop,Edge,Android,True,Europe,Germany,Berlin,10977,1087,9,5,True,20221228
+9226866,8432105272,20230414,1681486414,Email,newsletter,(none),tablet,Chrome,Macintosh,True,Europe,Spain,Madrid,0,364,4,5,True,20230212
+7918817,7429258613,20230826,1693037168,Display,direct,email,desktop,Firefox,Windows,False,Europe,Spain,Madrid,0,751,8,2,True,20221222
+4109784,7083449695,20230822,1692725102,Direct,youtube,(none),mobile,Edge,Linux,True,South America,Brazil,São Paulo,0,873,10,1,False,20230210
+7049388,2592214703,20230202,1675340668,Direct,google,email,desktop,Edge,Windows,True,North America,USA,New York,0,649,8,1,False,20230102
+5487919,7457718995,20231115,1700067580,Display,youtube,referral,tablet,Chrome,Windows,True,Europe,Spain,Madrid,19810,1077,2,1,False,20230930
+3833066,1240410247,20230911,1694425839,Direct,facebook,organic,mobile,Firefox,Windows,False,South America,Brazil,São Paulo,13626,56,7,5,True,20230816
+7170167,8231789131,20230621,1687391304,Referral,youtube,(none),desktop,Safari,Linux,False,Europe,Germany,Berlin,0,931,1,2,True,20230305
+9698148,3281781858,20231016,1697460747,Referral,direct,organic,tablet,Opera,Android,False,South America,Brazil,São Paulo,9030,824,2,1,False,20230330
+4133871,4131231617,20231229,1703874741,Direct,bing,organic,desktop,Opera,Android,True,North America,USA,New York,2425,849,7,3,True,20230310
+1377464,4798816796,20230803,1691027111,Email,direct,(none),desktop,Safari,iOS,False,Europe,Spain,Madrid,15466,408,3,4,True,20230605
+2637888,7217400256,20231105,1699220781,Referral,google,(none),desktop,Chrome,Windows,True,Europe,Germany,Berlin,0,492,8,3,True,20231002
+8297017,5350826378,20230429,1682787888,Social,facebook,organic,tablet,Firefox,Android,False,South America,Brazil,São Paulo,0,424,8,1,False,20230126
+3572145,2908598722,20230319,1679209407,Email,facebook,referral,desktop,Safari,Macintosh,True,Oceania,Australia,Sydney,2353,306,3,5,True,20221203
+9132498,3625858802,20230821,1692606269,Organic Search,bing,(none),mobile,Safari,Windows,True,South America,Brazil,São Paulo,0,690,7,2,True,20230108
+4934628,6078265514,20230615,1686840735,Display,youtube,(none),desktop,Firefox,Windows,False,South America,Brazil,São Paulo,0,622,8,4,True,20221206
+2893517,6502237534,20231027,1698435235,Direct,youtube,email,desktop,Chrome,iOS,True,North America,USA,New York,0,277,3,5,True,20230207
+5626478,3405100971,20230621,1687353479,Email,bing,referral,mobile,Chrome,Windows,True,Europe,Germany,Berlin,0,750,3,2,True,20230225
+7170419,6404194556,20230524,1684906168,Direct,bing,referral,mobile,Chrome,Macintosh,False,Asia,India,Nueva Delhi,17259,468,9,5,True,20230413
+7939754,9521050145,20230413,1681386488,Social,facebook,(none),mobile,Opera,Windows,True,Europe,Germany,Berlin,0,603,5,4,True,20230201
+5135546,2388309220,20230522,1684740056,Social,direct,referral,desktop,Safari,Linux,False,Europe,Spain,Madrid,0,919,2,1,False,20230330
+8342768,7835061156,20231127,1701079939,Social,google,referral,tablet,Opera,Macintosh,True,Oceania,Australia,Sydney,0,246,2,5,True,20230419
+4185123,9897915188,20230208,1675819758,Direct,youtube,organic,mobile,Chrome,Linux,True,Asia,India,Nueva Delhi,0,1146,4,2,True,20230117
+7184561,3109562660,20230507,1683470711,Organic Search,direct,cpc,desktop,Edge,Macintosh,True,South America,Brazil,São Paulo,6646,461,8,4,True,20230223
+1753509,1097200593,20230211,1676074075,Referral,google,email,desktop,Opera,Linux,True,Asia,India,Nueva Delhi,0,196,8,3,True,20230126
+7443103,1839613551,20230930,1696080126,Email,direct,referral,tablet,Safari,Android,True,Oceania,Australia,Sydney,7861,191,7,3,True,20230328
+2980742,9490228672,20230615,1686805658,Paid Search,bing,referral,mobile,Safari,Linux,False,Asia,India,Nueva Delhi,0,181,10,3,True,20230605
+3058854,9895864525,20230721,1689957623,Email,youtube,organic,tablet,Edge,iOS,True,Asia,India,Nueva Delhi,0,111,7,4,True,20230716
+1156141,3554103951,20230722,1690011127,Paid Search,facebook,(none),desktop,Safari,iOS,False,North America,USA,New York,0,551,7,1,False,20230410
+6284580,1327935169,20231002,1696241373,Organic Search,youtube,organic,mobile,Opera,Android,True,Asia,India,Nueva Delhi,0,936,6,5,True,20221224
+6906768,3360462450,20230717,1689558307,Social,facebook,referral,desktop,Firefox,Macintosh,False,Europe,Spain,Madrid,0,378,6,1,False,20230509
+7071985,8592925019,20230604,1685877657,Organic Search,facebook,referral,mobile,Chrome,iOS,True,South America,Brazil,São Paulo,0,174,3,2,True,20230124
+5620407,1770949995,20231014,1697310738,Email,youtube,(none),tablet,Chrome,Windows,False,Oceania,Australia,Sydney,3211,967,3,4,True,20230115
+7978125,4689638464,20230621,1687340774,Social,direct,organic,tablet,Edge,Android,False,Europe,Spain,Madrid,0,200,7,2,True,20230216
+4206463,4457228919,20230803,1691026118,Email,bing,referral,desktop,Chrome,iOS,True,Asia,India,Nueva Delhi,0,668,2,4,True,20221221
+3288276,9634182759,20230714,1689296540,Referral,youtube,email,mobile,Safari,Linux,True,South America,Brazil,São Paulo,0,962,10,2,True,20230420
+2284956,7208650828,20230117,1673994659,Organic Search,direct,(none),desktop,Edge,Windows,False,Europe,Germany,Berlin,0,215,5,3,True,20221212
+7322130,2410350247,20230630,1688143065,Display,google,email,tablet,Safari,Linux,False,Europe,Spain,Madrid,0,34,2,2,True,20230115
+2698523,3672730694,20231215,1702650891,Direct,bing,(none),tablet,Firefox,Android,False,Europe,Germany,Berlin,0,358,5,4,True,20231111
+7083318,5079349090,20230925,1695645669,Organic Search,google,email,desktop,Edge,Windows,True,South America,Brazil,São Paulo,0,547,2,3,True,20230703
+6605550,7894555811,20230518,1684382143,Referral,direct,cpc,desktop,Firefox,Macintosh,True,South America,Brazil,São Paulo,0,501,8,5,True,20230101
+3483961,3455272442,20231016,1697426794,Display,newsletter,email,mobile,Edge,iOS,False,North America,USA,New York,0,748,2,4,True,20230314
+5774348,1794217900,20230215,1676423753,Email,youtube,cpc,desktop,Firefox,Windows,False,Europe,Germany,Berlin,0,1178,7,4,True,20230207
+5059452,1559307383,20230226,1677388230,Organic Search,bing,(none),desktop,Chrome,Windows,False,Oceania,Australia,Sydney,0,515,4,2,True,20230119
+1313067,6147221059,20230803,1691026589,Social,youtube,(none),tablet,Opera,iOS,False,Asia,India,Nueva Delhi,4938,649,1,5,True,20230610
+6812533,6066678751,20230308,1678311821,Paid Search,direct,referral,mobile,Chrome,Macintosh,True,Europe,Germany,Berlin,0,48,4,1,False,20230116
+1957305,4245013431,20230607,1686164608,Paid Search,direct,referral,desktop,Safari,iOS,True,South America,Brazil,São Paulo,0,976,6,5,True,20230214
+6093591,1404528037,20230318,1679144071,Paid Search,bing,referral,mobile,Opera,Macintosh,True,Asia,India,Nueva Delhi,0,796,6,3,True,20230111
+8611196,3397753348,20230710,1689032747,Social,facebook,organic,mobile,Opera,Windows,False,Europe,Germany,Berlin,0,59,10,1,False,20230609
+7933427,4608127279,20230123,1674462959,Referral,direct,cpc,mobile,Safari,Windows,False,Asia,India,Nueva Delhi,0,784,9,3,True,20230118
+5316772,2449969985,20230914,1694676852,Direct,youtube,referral,tablet,Firefox,Android,True,Europe,Spain,Madrid,0,486,10,4,True,20230109
+6207111,3656846805,20231007,1696672027,Email,newsletter,email,desktop,Firefox,Windows,False,Europe,Germany,Berlin,0,1185,4,4,True,20230930
+9876202,2331634787,20230925,1695622773,Email,newsletter,cpc,desktop,Firefox,Macintosh,False,Oceania,Australia,Sydney,0,1048,1,4,True,20230526
+5367589,7394747966,20231223,1703351649,Organic Search,bing,cpc,tablet,Edge,Windows,False,South America,Brazil,São Paulo,10165,375,1,2,True,20230125
+5393145,3510565934,20230205,1675640421,Display,bing,email,mobile,Firefox,iOS,False,South America,Brazil,São Paulo,0,602,10,4,True,20221213
+1121826,3236118552,20231223,1703364936,Paid Search,google,organic,tablet,Chrome,Linux,True,Asia,India,Nueva Delhi,3146,819,3,3,True,20231217
+4688834,6621036210,20230402,1680464466,Display,facebook,email,mobile,Edge,Windows,False,Europe,Spain,Madrid,0,922,4,5,True,20230325
+2255405,1476480333,20231022,1697959091,Referral,google,cpc,tablet,Chrome,iOS,False,South America,Brazil,São Paulo,0,845,2,4,True,20230528
+6780114,7537149203,20230722,1690069263,Email,facebook,cpc,desktop,Chrome,Windows,False,Europe,Germany,Berlin,0,541,6,4,True,20230501
+2645051,7952354070,20230306,1678088462,Paid Search,youtube,(none),tablet,Safari,Macintosh,True,Europe,Germany,Berlin,0,319,2,4,True,20221209
+8858746,7295780143,20230622,1687452382,Email,youtube,organic,tablet,Firefox,Android,False,Oceania,Australia,Sydney,0,140,10,4,True,20230127
+9834657,9372685916,20231104,1699056752,Social,facebook,organic,mobile,Safari,Macintosh,True,Oceania,Australia,Sydney,0,964,10,1,False,20230829
+4293608,8470343404,20230706,1688655975,Organic Search,google,(none),desktop,Chrome,Macintosh,True,Asia,India,Nueva Delhi,0,961,5,4,True,20230507
+3450884,8392048128,20230902,1693635043,Social,direct,referral,desktop,Safari,Windows,False,Asia,India,Nueva Delhi,0,962,8,1,False,20230203
+5691600,5059237192,20230330,1680184344,Display,youtube,(none),desktop,Firefox,Android,False,Europe,Germany,Berlin,0,423,6,4,True,20230119
+5102602,6520503028,20231220,1703052055,Display,direct,cpc,mobile,Firefox,iOS,False,Europe,Germany,Berlin,0,1026,7,5,True,20230513
+3368824,8192551400,20230303,1677869354,Referral,direct,cpc,tablet,Chrome,Windows,False,Asia,India,Nueva Delhi,0,1032,10,1,False,20221207
+4999174,6078616972,20230211,1676098185,Referral,google,cpc,desktop,Firefox,Linux,False,Europe,Germany,Berlin,0,145,9,5,True,20221218
+4449044,6274281350,20230804,1691149065,Paid Search,facebook,organic,desktop,Chrome,Macintosh,False,Europe,Spain,Madrid,0,680,2,1,False,20230515
+6909165,2726278078,20230127,1674786200,Email,newsletter,cpc,tablet,Safari,Windows,True,Asia,India,Nueva Delhi,0,420,8,2,True,20230114
+3195772,1129374945,20231009,1696854009,Direct,bing,cpc,mobile,Safari,Android,False,North America,USA,New York,7979,122,10,3,True,20230130
+1365011,1886663506,20230508,1683536571,Paid Search,youtube,(none),desktop,Safari,Android,True,South America,Brazil,São Paulo,0,505,8,2,True,20230423
+9349411,1994045907,20231030,1698660891,Paid Search,direct,(none),tablet,Edge,Linux,False,Europe,Spain,Madrid,0,593,7,2,True,20230308
+2457459,1292935320,20230817,1692293238,Direct,facebook,email,tablet,Edge,Android,True,South America,Brazil,São Paulo,11640,830,7,4,True,20230509
+3302053,8933391130,20230719,1689754233,Social,google,referral,tablet,Chrome,Macintosh,False,North America,USA,New York,0,730,3,2,True,20230605
+9223152,6982931379,20230728,1690537009,Organic Search,bing,(none),desktop,Opera,Linux,True,Europe,Spain,Madrid,0,553,9,1,False,20230221
+9713158,3222411351,20230611,1686509350,Organic Search,direct,cpc,mobile,Edge,Macintosh,False,North America,USA,New York,0,660,3,4,True,20230321
+1040315,6359303502,20231220,1703073602,Paid Search,newsletter,email,mobile,Safari,iOS,True,Europe,Germany,Berlin,3633,720,1,3,True,20230219
+5814952,6020805261,20231112,1699753161,Referral,direct,email,desktop,Opera,iOS,True,Oceania,Australia,Sydney,16227,1093,10,5,True,20231031
+7457751,5020724054,20230211,1676146612,Paid Search,youtube,cpc,tablet,Chrome,iOS,True,Europe,Spain,Madrid,4610,309,6,3,True,20230103
+6058590,6231117842,20231009,1696891222,Direct,google,(none),desktop,Edge,iOS,True,Europe,Germany,Berlin,0,1059,7,4,True,20230128
+3858231,6704983182,20230202,1675323836,Direct,bing,organic,desktop,Chrome,Linux,False,Asia,India,Nueva Delhi,3896,247,4,2,True,20230101
+8051916,2496410085,20230204,1675475201,Referral,youtube,organic,tablet,Chrome,Android,True,Europe,Spain,Madrid,0,455,6,4,True,20230103
+2605492,2148552455,20230130,1675095418,Paid Search,google,organic,tablet,Opera,Android,True,Oceania,Australia,Sydney,0,758,3,5,True,20221204
+9194196,3634637591,20230706,1688610904,Organic Search,youtube,organic,tablet,Edge,Macintosh,True,South America,Brazil,São Paulo,0,1100,1,1,False,20221229
+8910528,8149168589,20230928,1695934780,Social,newsletter,cpc,desktop,Edge,Macintosh,True,South America,Brazil,São Paulo,0,1096,4,4,True,20230919
+7955222,9349574283,20230829,1693352432,Organic Search,direct,email,desktop,Opera,iOS,False,Asia,India,Nueva Delhi,16489,204,1,2,True,20230513
+8892610,7399791853,20230718,1689715499,Referral,youtube,email,desktop,Chrome,Macintosh,False,Europe,Spain,Madrid,4833,541,3,1,False,20230526
+7623433,3279526236,20231109,1699538338,Referral,google,cpc,tablet,Chrome,iOS,False,Asia,India,Nueva Delhi,0,328,2,2,True,20230914
+5484846,5458468155,20230916,1694834977,Paid Search,youtube,referral,desktop,Safari,Android,False,Europe,Spain,Madrid,0,1042,2,5,True,20230621
+5964248,1386356635,20230410,1681107002,Display,bing,(none),mobile,Edge,Linux,False,Europe,Spain,Madrid,1019,1114,1,3,True,20230209
+7080111,2604038302,20230713,1689249824,Direct,youtube,organic,mobile,Opera,Windows,True,Asia,India,Nueva Delhi,12246,407,8,5,True,20230410
+5535497,1431175739,20230117,1673922617,Referral,google,email,desktop,Edge,iOS,True,North America,USA,New York,0,272,3,3,True,20221208
+8906359,4533585836,20230707,1688742394,Paid Search,newsletter,organic,desktop,Chrome,Android,True,Asia,India,Nueva Delhi,0,829,9,2,True,20230408
+7664029,1934832598,20231007,1696707415,Email,youtube,email,mobile,Opera,Windows,True,South America,Brazil,São Paulo,0,968,5,3,True,20230606
+9647825,7378256627,20230418,1681795374,Organic Search,facebook,email,tablet,Firefox,iOS,True,South America,Brazil,São Paulo,19860,36,9,4,True,20230106
+9123125,2669966625,20230316,1678976425,Direct,youtube,referral,desktop,Safari,Android,False,North America,USA,New York,0,675,1,3,True,20221226
+9361467,2388827386,20230501,1682956752,Email,youtube,organic,mobile,Safari,iOS,True,Oceania,Australia,Sydney,3021,373,5,4,True,20230115
+8995512,5081140914,20230903,1693755010,Social,youtube,email,mobile,Edge,Linux,True,South America,Brazil,São Paulo,0,471,9,5,True,20230629
+3956387,7818855399,20230925,1695642672,Direct,facebook,referral,desktop,Opera,Windows,False,North America,USA,New York,0,1151,4,2,True,20230520
+6499499,3291729268,20230816,1692150665,Referral,newsletter,referral,tablet,Safari,iOS,True,South America,Brazil,São Paulo,0,820,9,3,True,20230212
+6101336,1281999243,20230609,1686351514,Display,google,referral,mobile,Opera,Macintosh,False,Europe,Germany,Berlin,0,689,9,2,True,20221209
+1129916,6284911179,20230728,1690530487,Direct,newsletter,(none),mobile,Chrome,iOS,True,Europe,Germany,Berlin,0,15,3,3,True,20230606
+8839325,2674476705,20230214,1676381232,Referral,facebook,cpc,tablet,Firefox,Windows,False,Europe,Germany,Berlin,0,192,8,3,True,20221211
+4609952,2899419680,20231220,1703038339,Referral,youtube,(none),tablet,Firefox,Macintosh,False,Asia,India,Nueva Delhi,9836,123,10,3,True,20230205
+8543828,8386301417,20230919,1695166137,Direct,direct,referral,tablet,Safari,Windows,True,Oceania,Australia,Sydney,0,1094,1,5,True,20230407
+5486196,1260549321,20230128,1674906529,Organic Search,newsletter,referral,mobile,Opera,Windows,True,Europe,Germany,Berlin,2658,1196,8,2,True,20230109
+3980887,2635882299,20230305,1678004774,Email,youtube,(none),desktop,Opera,Macintosh,True,North America,USA,New York,0,1144,8,4,True,20221211
+5888318,3373373670,20230706,1688607470,Social,bing,(none),desktop,Firefox,Windows,True,Europe,Spain,Madrid,15726,33,10,5,True,20230213
+4693831,3846492514,20230421,1682073248,Paid Search,google,organic,tablet,Firefox,iOS,True,South America,Brazil,São Paulo,0,665,9,2,True,20230129
+3229381,5667715320,20230721,1689913919,Organic Search,bing,organic,mobile,Safari,Macintosh,False,Europe,Germany,Berlin,8151,960,8,5,True,20221227
+6968690,9231112655,20230110,1673311742,Display,facebook,referral,mobile,Safari,Windows,False,South America,Brazil,São Paulo,0,598,7,2,True,20221217
+3438197,8278475134,20230206,1675670525,Display,bing,referral,mobile,Chrome,Macintosh,True,Europe,Spain,Madrid,0,540,2,5,True,20230127
+8014149,1430109681,20230205,1675641206,Referral,direct,cpc,tablet,Chrome,Linux,True,Europe,Germany,Berlin,0,662,10,2,True,20230120
+1409515,9702631219,20231006,1696583264,Display,bing,cpc,tablet,Safari,Windows,False,South America,Brazil,São Paulo,0,502,9,1,False,20230113
+7054915,9384394793,20231023,1698101228,Email,bing,referral,tablet,Chrome,Windows,True,Oceania,Australia,Sydney,1982,823,8,3,True,20230501
+9613825,2594593686,20230204,1675474285,Social,google,referral,tablet,Chrome,Android,True,North America,USA,New York,0,661,6,5,True,20221226
+8641115,8420089604,20230527,1685181193,Display,bing,(none),mobile,Firefox,iOS,True,Europe,Spain,Madrid,0,693,1,2,True,20230313
+9307614,4376298874,20230911,1694401006,Display,bing,organic,desktop,Edge,iOS,False,South America,Brazil,São Paulo,0,452,3,5,True,20230430
+6422312,6001768514,20230908,1694209250,Referral,youtube,cpc,desktop,Edge,Linux,True,Oceania,Australia,Sydney,0,1105,1,1,False,20230512
+5560533,6319557282,20230106,1673003431,Direct,youtube,cpc,tablet,Edge,Macintosh,False,Asia,India,Nueva Delhi,7101,178,5,3,True,20221220
+9676662,7430578064,20230312,1678612214,Direct,newsletter,organic,mobile,Chrome,Android,False,Oceania,Australia,Sydney,0,1107,2,2,True,20230228
+2941559,5348923853,20230826,1693051242,Organic Search,bing,organic,tablet,Safari,iOS,False,Oceania,Australia,Sydney,0,540,2,2,True,20230822
+6734543,7720040571,20230706,1688663407,Display,bing,referral,desktop,Chrome,Windows,True,Oceania,Australia,Sydney,17325,1100,5,5,True,20221220
+2568727,1226397605,20231024,1698155990,Display,facebook,(none),tablet,Chrome,iOS,True,Europe,Germany,Berlin,0,905,6,2,True,20230619
+6367121,6838126242,20230818,1692341142,Display,facebook,referral,mobile,Firefox,Android,True,North America,USA,New York,12984,981,6,5,True,20230220
+1553881,3959490774,20230529,1685396153,Referral,newsletter,email,mobile,Edge,Android,False,Europe,Spain,Madrid,16492,1152,3,3,True,20230116
+1501804,2718309134,20230616,1686950845,Referral,youtube,cpc,mobile,Opera,Windows,False,Europe,Germany,Berlin,0,810,3,4,True,20230328
+2010722,6755205704,20230512,1683932498,Referral,bing,(none),tablet,Edge,Linux,True,South America,Brazil,São Paulo,0,900,5,3,True,20230222
+1352505,7815041149,20230719,1689790466,Organic Search,google,cpc,tablet,Edge,Windows,True,Europe,Spain,Madrid,0,1068,8,5,True,20230111
+7024001,6192083330,20231210,1702249453,Direct,bing,(none),tablet,Firefox,iOS,True,South America,Brazil,São Paulo,10124,164,9,2,True,20231116
+9008316,6336463932,20230320,1679275519,Direct,youtube,(none),mobile,Firefox,Linux,False,South America,Brazil,São Paulo,0,373,3,3,True,20221214
+7964632,5527378416,20230830,1693386339,Email,google,(none),tablet,Safari,Windows,False,Oceania,Australia,Sydney,0,646,5,5,True,20230302
+8656187,1621869145,20230815,1692078130,Organic Search,newsletter,email,tablet,Chrome,Macintosh,False,Asia,India,Nueva Delhi,0,835,3,1,False,20230707
+8539892,7347639425,20230910,1694331763,Paid Search,google,referral,desktop,Firefox,iOS,True,Asia,India,Nueva Delhi,0,433,4,2,True,20230614
+3096489,2142997049,20231204,1701651422,Social,direct,(none),desktop,Safari,Linux,True,South America,Brazil,São Paulo,0,318,7,3,True,20230924
+2233497,7135030082,20230121,1674276055,Paid Search,youtube,referral,desktop,Safari,Android,False,Europe,Germany,Berlin,4873,1186,2,4,True,20221215
+7053875,3931518056,20230731,1690815375,Email,newsletter,email,mobile,Edge,iOS,False,Europe,Germany,Berlin,0,694,6,5,True,20230403
+1476273,9050773406,20230915,1694742434,Email,newsletter,email,mobile,Opera,Android,True,North America,USA,New York,0,962,6,2,True,20230719
+1216819,7451464646,20230516,1684219743,Email,newsletter,organic,mobile,Safari,Android,True,North America,USA,New York,4253,925,6,1,False,20230411
+3120480,4662492468,20230602,1685684873,Organic Search,direct,(none),mobile,Firefox,Macintosh,True,South America,Brazil,São Paulo,0,84,6,1,False,20230208
+9482908,8634392332,20231017,1697545797,Social,youtube,email,tablet,Firefox,Android,True,Europe,Germany,Berlin,0,968,9,2,True,20230817
+2355141,2602859145,20230607,1686142636,Direct,newsletter,cpc,desktop,Firefox,Linux,True,Europe,Germany,Berlin,3246,1134,4,4,True,20230330
+3302281,6236533724,20230718,1689661610,Email,youtube,cpc,tablet,Opera,Android,True,Oceania,Australia,Sydney,0,777,1,1,False,20230131
+5709249,1872240967,20230217,1676624903,Paid Search,facebook,cpc,tablet,Safari,Windows,True,Asia,India,Nueva Delhi,0,855,10,3,True,20230212
+9499965,2814109331,20230819,1692430624,Referral,newsletter,cpc,mobile,Chrome,iOS,False,North America,USA,New York,0,674,5,4,True,20230406
+4006234,1141042454,20230617,1686971719,Direct,google,email,mobile,Chrome,Windows,True,Europe,Spain,Madrid,0,657,2,3,True,20230228
+4462668,7658732824,20230721,1689979331,Direct,google,referral,tablet,Edge,Macintosh,False,Europe,Germany,Berlin,0,99,7,4,True,20230613
+1673562,2426758230,20231001,1696196046,Direct,google,organic,mobile,Opera,Linux,True,Europe,Germany,Berlin,0,906,8,1,False,20230109
+1962101,1392363853,20231213,1702441899,Email,facebook,cpc,mobile,Safari,Windows,True,Asia,India,Nueva Delhi,0,108,1,5,True,20221219
+9054555,2457132083,20231023,1698045076,Referral,youtube,(none),desktop,Chrome,Windows,False,Europe,Germany,Berlin,0,1147,10,1,False,20231019
+4080069,9650695215,20230425,1682411493,Social,direct,referral,tablet,Safari,Windows,True,Europe,Spain,Madrid,0,724,9,3,True,20230417
+1857799,1171883121,20231207,1701990523,Paid Search,facebook,organic,desktop,Edge,iOS,False,Europe,Germany,Berlin,0,1153,2,3,True,20230124
+4282669,8361960818,20231014,1697308811,Direct,newsletter,cpc,mobile,Safari,Linux,True,Europe,Germany,Berlin,0,458,7,3,True,20230825
+6431962,1857879939,20231011,1697013286,Paid Search,bing,referral,mobile,Chrome,Linux,True,North America,USA,New York,0,77,6,1,False,20230514
+3003011,1781308865,20230727,1690478759,Email,facebook,referral,tablet,Safari,iOS,True,North America,USA,New York,0,77,7,1,False,20230527
+4361017,3583166919,20230503,1683098859,Social,newsletter,referral,desktop,Edge,iOS,True,Europe,Germany,Berlin,0,106,6,4,True,20230326
+5217962,2978342224,20231017,1697584230,Direct,google,cpc,tablet,Opera,Linux,False,Europe,Spain,Madrid,1689,862,4,3,True,20230816
+2165609,9846717181,20230709,1688873777,Direct,google,organic,tablet,Edge,Macintosh,False,Europe,Spain,Madrid,11546,705,5,4,True,20230521
+2667770,1477080527,20230308,1678245756,Direct,direct,referral,desktop,Edge,Windows,True,South America,Brazil,São Paulo,0,44,10,5,True,20230203
+1682415,8708877420,20231211,1702310872,Paid Search,bing,email,tablet,Opera,iOS,False,North America,USA,New York,3216,944,5,5,True,20230130
+5052427,3465742374,20231014,1697249778,Paid Search,facebook,organic,desktop,Opera,Windows,True,Asia,India,Nueva Delhi,0,20,9,3,True,20230718
+7859974,3066407926,20230408,1680956153,Social,direct,referral,desktop,Safari,Linux,False,Oceania,Australia,Sydney,0,551,1,4,True,20230212
+6907226,4129359711,20230904,1693811154,Paid Search,direct,email,mobile,Edge,iOS,True,Asia,India,Nueva Delhi,0,975,10,2,True,20230123
+9465813,4401488752,20230220,1676866477,Referral,direct,referral,tablet,Opera,Windows,True,Oceania,Australia,Sydney,0,1120,5,1,False,20230219
+4735914,6332334233,20231130,1701303855,Email,youtube,(none),tablet,Edge,Linux,True,Asia,India,Nueva Delhi,0,610,6,3,True,20221205
+3921424,1272857293,20231024,1698129995,Email,youtube,referral,mobile,Edge,Android,False,Asia,India,Nueva Delhi,12325,1085,5,2,True,20230913
+8257674,1700025609,20230427,1682555207,Direct,newsletter,cpc,tablet,Firefox,Windows,False,Europe,Spain,Madrid,12985,526,4,5,True,20230419
+5569583,7817682078,20231125,1700900373,Email,google,(none),mobile,Safari,iOS,False,South America,Brazil,São Paulo,0,887,2,2,True,20230502
+1358769,8468946471,20230706,1688655758,Direct,youtube,cpc,tablet,Chrome,iOS,False,Europe,Spain,Madrid,0,1078,4,5,True,20230516
+5860015,4998137638,20230425,1682406748,Display,direct,referral,desktop,Safari,Linux,True,Europe,Germany,Berlin,0,146,3,5,True,20230205
+7484030,6182737716,20230204,1675498169,Referral,google,referral,tablet,Edge,Linux,True,Europe,Spain,Madrid,0,1182,4,2,True,20230101
+7102614,6189472420,20230823,1692758507,Paid Search,facebook,email,tablet,Chrome,Macintosh,True,Europe,Germany,Berlin,0,87,2,5,True,20230422
+1388411,9881906646,20230824,1692882814,Direct,google,cpc,tablet,Firefox,Linux,False,Europe,Germany,Berlin,16502,848,8,1,False,20230320
+4171807,9418063039,20230129,1674951934,Social,direct,cpc,desktop,Firefox,iOS,False,North America,USA,New York,0,227,9,1,False,20221218
+1252702,6083806741,20230716,1689519836,Display,direct,organic,desktop,Edge,Macintosh,True,North America,USA,New York,0,240,7,1,False,20230111
+6380111,4700214388,20230429,1682739739,Email,youtube,(none),mobile,Firefox,iOS,True,North America,USA,New York,11658,71,5,5,True,20230127
+2890256,7118797579,20230416,1681647545,Direct,bing,organic,desktop,Chrome,Macintosh,True,Asia,India,Nueva Delhi,0,1146,8,4,True,20221231
+1663240,5036360606,20231118,1700312635,Paid Search,google,referral,desktop,Firefox,Macintosh,True,Europe,Germany,Berlin,0,826,2,1,False,20231113
+4733669,2126512797,20230511,1683763760,Paid Search,bing,(none),tablet,Edge,Linux,True,Asia,India,Nueva Delhi,0,543,2,2,True,20230117
+9117178,6277630023,20230425,1682461695,Paid Search,bing,email,tablet,Chrome,Linux,True,Oceania,Australia,Sydney,0,1042,10,5,True,20230113
+4615134,7258118525,20230209,1675932629,Organic Search,newsletter,(none),desktop,Opera,Macintosh,False,Asia,India,Nueva Delhi,0,820,6,4,True,20221221
+7041162,7681509912,20230420,1681953658,Email,google,organic,tablet,Firefox,Linux,True,Oceania,Australia,Sydney,0,621,3,5,True,20230210
+8621458,1539755224,20230827,1693166168,Paid Search,facebook,(none),tablet,Safari,Macintosh,True,Europe,Germany,Berlin,0,1146,4,3,True,20230510
+6959270,6338126387,20230717,1689552515,Social,newsletter,email,mobile,Edge,Linux,True,South America,Brazil,São Paulo,0,686,2,3,True,20230204
+3375022,9788202406,20230831,1693524025,Direct,newsletter,organic,tablet,Safari,Linux,True,Oceania,Australia,Sydney,0,815,1,2,True,20230618
+8711466,4507029236,20230303,1677809670,Email,google,referral,desktop,Safari,Android,True,Europe,Germany,Berlin,6368,1146,9,5,True,20221203
+1406741,3902838838,20230923,1695493467,Social,google,referral,mobile,Firefox,Windows,False,Europe,Spain,Madrid,0,662,3,3,True,20230830
+6196093,5200687830,20230202,1675340310,Direct,bing,email,desktop,Safari,Windows,True,Europe,Germany,Berlin,0,288,7,2,True,20221219
+6560266,4347624638,20231007,1696651252,Organic Search,google,(none),mobile,Edge,Windows,False,Europe,Germany,Berlin,0,1002,6,2,True,20230917
+6291684,4589814137,20230719,1689789657,Paid Search,google,referral,tablet,Firefox,Macintosh,False,North America,USA,New York,0,299,7,2,True,20230501
+4993618,9661362446,20230111,1673428059,Direct,google,email,desktop,Chrome,Android,False,Asia,India,Nueva Delhi,0,820,5,2,True,20221219
+9001913,7931040057,20231202,1701536466,Organic Search,bing,(none),desktop,Edge,Macintosh,True,South America,Brazil,São Paulo,4253,726,8,2,True,20231031
+2243698,2271126056,20230424,1682298118,Organic Search,google,organic,desktop,Chrome,Windows,False,Europe,Spain,Madrid,0,370,4,2,True,20221202
+5902937,5939740782,20230210,1675996385,Direct,facebook,organic,tablet,Firefox,Linux,True,Oceania,Australia,Sydney,0,21,3,4,True,20230124
+2510033,7594878188,20231219,1702968397,Display,google,cpc,desktop,Chrome,Macintosh,True,Oceania,Australia,Sydney,14843,741,5,4,True,20231130
+5591640,5054594331,20230802,1690955003,Direct,direct,organic,desktop,Firefox,Macintosh,True,Europe,Germany,Berlin,0,579,4,4,True,20230303
+1174857,5107246430,20230102,1672630093,Email,google,referral,desktop,Edge,Android,False,North America,USA,New York,0,468,6,1,False,20221213
+1879074,8754312192,20230821,1692656653,Direct,bing,(none),tablet,Safari,Linux,False,Europe,Spain,Madrid,0,199,2,3,True,20230309
+1081249,5099569127,20231216,1702748430,Direct,newsletter,organic,mobile,Edge,Android,False,Asia,India,Nueva Delhi,0,288,3,1,False,20230523
+9590792,4456175545,20231002,1696214066,Display,direct,cpc,tablet,Edge,iOS,True,North America,USA,New York,0,209,7,3,True,20230519
+4772652,3856287212,20230316,1678929109,Paid Search,bing,email,mobile,Chrome,Windows,True,Oceania,Australia,Sydney,0,482,6,3,True,20230305
+5912524,6579509286,20230905,1693909026,Organic Search,direct,email,mobile,Edge,iOS,True,Europe,Germany,Berlin,12227,687,2,3,True,20230217
+6782369,6895320870,20230608,1686233034,Organic Search,direct,organic,tablet,Safari,Macintosh,False,Europe,Germany,Berlin,0,34,8,2,True,20221225
+1514374,4671584991,20231003,1696305492,Paid Search,facebook,(none),desktop,Safari,Linux,False,Europe,Spain,Madrid,0,403,1,4,True,20230529
+3253213,2643562133,20230525,1685041637,Social,facebook,referral,mobile,Opera,Windows,False,Asia,India,Nueva Delhi,0,789,7,4,True,20230306
+2155376,2988293486,20230613,1686692378,Paid Search,google,referral,tablet,Chrome,Linux,True,Europe,Germany,Berlin,0,492,3,4,True,20230119
+5987480,7317864405,20230721,1689943044,Paid Search,newsletter,email,desktop,Edge,Linux,False,South America,Brazil,São Paulo,14188,603,7,2,True,20230606
+1453597,5536208384,20230113,1673646575,Paid Search,youtube,cpc,mobile,Opera,iOS,True,South America,Brazil,São Paulo,0,1007,6,1,False,20221212
+7048772,2596292497,20230610,1686356066,Referral,facebook,referral,mobile,Edge,iOS,True,Europe,Germany,Berlin,0,605,4,3,True,20230504
+1252986,5463713405,20231031,1698730252,Paid Search,google,(none),desktop,Chrome,Macintosh,False,Europe,Spain,Madrid,0,134,7,3,True,20230804
+1853390,8983657122,20231117,1700242755,Referral,bing,cpc,mobile,Firefox,Macintosh,False,North America,USA,New York,0,424,2,2,True,20230123
+7068541,6705344325,20230224,1677276834,Email,bing,cpc,desktop,Edge,Windows,True,South America,Brazil,São Paulo,0,889,5,4,True,20221204
+9895687,9681368386,20230321,1679391664,Email,facebook,organic,mobile,Safari,Android,True,North America,USA,New York,0,944,7,4,True,20230109
+6684588,5146683968,20231226,1703606096,Direct,direct,cpc,tablet,Chrome,iOS,False,North America,USA,New York,0,394,4,5,True,20230221
+2819524,6112020442,20231130,1701354848,Direct,newsletter,cpc,desktop,Edge,Windows,False,North America,USA,New York,0,941,7,5,True,20230201
+8616436,3318140817,20230612,1686539742,Organic Search,direct,email,tablet,Edge,Macintosh,False,Oceania,Australia,Sydney,0,684,1,4,True,20230119
+7897040,1074043421,20230726,1690402488,Paid Search,youtube,(none),desktop,Chrome,Linux,True,Europe,Spain,Madrid,0,1047,3,5,True,20230209
+4342396,5276900749,20230120,1674226097,Email,direct,cpc,mobile,Opera,Macintosh,True,Oceania,Australia,Sydney,0,1108,7,4,True,20230104
+1774093,2137570862,20231001,1696196121,Direct,google,organic,tablet,Chrome,Linux,True,North America,USA,New York,0,721,5,4,True,20230623
+9642753,2181768089,20230723,1690143847,Direct,facebook,cpc,desktop,Safari,Macintosh,False,Europe,Spain,Madrid,0,94,5,1,False,20230213
+8322699,3868770335,20230522,1684729508,Referral,youtube,(none),mobile,Firefox,Macintosh,False,South America,Brazil,São Paulo,11260,971,10,1,False,20230411
+6699176,2482941013,20230511,1683795676,Direct,google,(none),desktop,Opera,Linux,True,Europe,Spain,Madrid,14154,867,9,5,True,20230103
+1302650,9876558244,20230114,1673688959,Direct,facebook,cpc,mobile,Edge,Linux,False,North America,USA,New York,0,808,5,4,True,20221215
+4352442,9998013304,20230124,1674555252,Social,facebook,organic,mobile,Firefox,Windows,False,Europe,Spain,Madrid,0,689,1,1,False,20230109
+8646913,2139368518,20231128,1701148063,Direct,youtube,(none),desktop,Opera,Windows,False,Europe,Germany,Berlin,0,1174,9,1,False,20230602
+4403734,7447252582,20231017,1697550350,Referral,direct,cpc,desktop,Safari,iOS,True,Asia,India,Nueva Delhi,0,323,3,3,True,20230809
+2660104,6123416964,20231105,1699222094,Display,facebook,organic,mobile,Opera,iOS,True,North America,USA,New York,0,277,3,5,True,20230123
+5397968,7200010035,20231024,1698138631,Email,newsletter,cpc,desktop,Firefox,Macintosh,False,Oceania,Australia,Sydney,0,610,7,1,False,20230524
+5766206,4945932370,20230518,1684404201,Display,newsletter,referral,mobile,Edge,Windows,False,North America,USA,New York,0,366,4,4,True,20230121
+2084929,7400313983,20230707,1688732467,Social,direct,organic,mobile,Edge,iOS,False,Oceania,Australia,Sydney,2907,173,5,2,True,20230125
+3893172,4920450811,20230507,1683432425,Social,facebook,(none),mobile,Chrome,Macintosh,False,Europe,Spain,Madrid,17107,1147,9,4,True,20230321
+5105060,4540167801,20230314,1678800659,Email,facebook,(none),tablet,Firefox,Linux,False,Asia,India,Nueva Delhi,0,1073,10,2,True,20230220
+4005197,1290687383,20231107,1699337020,Referral,newsletter,organic,desktop,Opera,Linux,True,Europe,Germany,Berlin,0,238,1,5,True,20230203
+3706672,2544810970,20230405,1680717842,Email,google,(none),tablet,Edge,Macintosh,False,Europe,Germany,Berlin,0,1170,2,5,True,20230404
+1192013,6817674524,20230215,1676475968,Display,google,referral,tablet,Safari,iOS,False,North America,USA,New York,7978,598,4,2,True,20221228
+1436000,8260883406,20231114,1699979000,Paid Search,bing,referral,tablet,Safari,Windows,True,Oceania,Australia,Sydney,0,473,4,1,False,20221215
+2186525,2217114790,20230317,1679077565,Social,newsletter,referral,desktop,Safari,iOS,True,South America,Brazil,São Paulo,0,66,10,1,False,20230126
+9343056,1631167862,20231124,1700824452,Direct,direct,referral,mobile,Firefox,Windows,True,Oceania,Australia,Sydney,0,285,8,1,False,20230713
+7543685,1726626027,20231209,1702095692,Social,facebook,organic,desktop,Edge,Windows,False,Asia,India,Nueva Delhi,0,830,3,5,True,20221220
+3919835,1864939390,20230826,1693057722,Direct,google,referral,desktop,Opera,Android,False,Europe,Spain,Madrid,0,866,2,4,True,20230306
+5938989,5602240711,20230629,1688028723,Referral,google,organic,mobile,Safari,Windows,True,South America,Brazil,São Paulo,0,372,7,2,True,20221222
+3155598,9001612506,20230503,1683137787,Display,google,email,tablet,Edge,Macintosh,False,North America,USA,New York,12951,192,3,4,True,20230422
+1863321,7371716949,20231212,1702400119,Paid Search,bing,(none),desktop,Edge,Macintosh,False,Oceania,Australia,Sydney,18924,188,1,3,True,20230423
+6978296,3902259005,20230923,1695482020,Social,bing,cpc,mobile,Safari,Linux,True,South America,Brazil,São Paulo,0,240,2,2,True,20230918
+7418798,6739628684,20231002,1696218891,Email,bing,organic,tablet,Edge,iOS,True,Oceania,Australia,Sydney,3223,690,5,3,True,20230930
+5742978,9238232484,20231229,1703826426,Email,bing,referral,desktop,Chrome,iOS,True,Asia,India,Nueva Delhi,16767,296,1,4,True,20230424
+5553202,5937094627,20230401,1680381062,Paid Search,newsletter,referral,tablet,Chrome,Macintosh,False,Asia,India,Nueva Delhi,0,515,4,2,True,20230214
+1265832,9000972880,20230413,1681350318,Email,facebook,organic,desktop,Safari,Macintosh,True,Asia,India,Nueva Delhi,0,674,8,2,True,20221222
+5816180,8058255712,20230805,1691234480,Paid Search,facebook,email,desktop,Firefox,Linux,False,Europe,Spain,Madrid,18067,818,10,4,True,20221202
+5183351,5054788790,20230621,1687373100,Social,bing,cpc,tablet,Opera,iOS,True,Europe,Germany,Berlin,0,770,3,5,True,20230520
+2442158,4784146792,20230624,1687590103,Social,bing,email,tablet,Edge,Macintosh,True,Asia,India,Nueva Delhi,18700,326,1,2,True,20230623
+5839991,4490568158,20230801,1690933694,Organic Search,youtube,email,desktop,Chrome,Linux,True,Europe,Germany,Berlin,0,288,9,5,True,20230220
+8897906,6011624235,20230201,1675276998,Referral,newsletter,referral,mobile,Safari,Macintosh,False,North America,USA,New York,0,595,3,3,True,20230126
+8386772,5103092869,20230413,1681359627,Email,facebook,(none),mobile,Edge,Windows,False,Oceania,Australia,Sydney,15676,798,8,1,False,20230404
+5039904,8551040744,20231031,1698729254,Organic Search,bing,referral,mobile,Chrome,Macintosh,True,North America,USA,New York,0,692,9,5,True,20221210
+2006749,6103834742,20231112,1699760778,Direct,google,organic,mobile,Edge,Linux,True,South America,Brazil,São Paulo,0,884,10,1,False,20230813
+8956463,2521931071,20230212,1676171205,Display,direct,organic,mobile,Opera,Macintosh,False,South America,Brazil,São Paulo,8839,991,1,2,True,20221220
+4110787,6615773446,20230621,1687309413,Direct,facebook,cpc,mobile,Opera,Windows,True,Europe,Spain,Madrid,0,160,1,4,True,20221223
+1590768,8502533099,20230820,1692558634,Display,bing,cpc,tablet,Opera,Android,True,Europe,Spain,Madrid,0,442,3,4,True,20230417
+1496913,9611343532,20230730,1690756482,Display,direct,referral,desktop,Edge,Linux,True,Oceania,Australia,Sydney,1920,48,10,4,True,20230322
+3022479,4877616820,20230801,1690920623,Social,youtube,referral,mobile,Chrome,iOS,True,Europe,Germany,Berlin,0,800,8,1,False,20230622
+2475251,6392344881,20231014,1697326922,Paid Search,youtube,(none),tablet,Opera,Macintosh,True,North America,USA,New York,16622,1005,4,2,True,20230826
+2197396,3535655990,20231127,1701087481,Display,youtube,referral,desktop,Chrome,Android,False,Europe,Spain,Madrid,12992,646,5,4,True,20230405
+1692329,5428552164,20231227,1703652151,Email,youtube,email,tablet,Chrome,iOS,False,Asia,India,Nueva Delhi,0,519,8,3,True,20230204
+5382429,6061000225,20230206,1675693741,Paid Search,direct,email,mobile,Firefox,Android,False,Europe,Germany,Berlin,0,889,8,3,True,20230102
+4180463,6497773230,20230512,1683895620,Direct,bing,referral,desktop,Opera,Windows,True,North America,USA,New York,0,29,8,4,True,20230411
+9976198,6736802862,20230109,1673268652,Organic Search,bing,referral,desktop,Opera,Android,False,Europe,Spain,Madrid,0,410,1,5,True,20221216
+6278855,2305633385,20230822,1692708968,Organic Search,youtube,(none),mobile,Opera,Macintosh,True,Europe,Spain,Madrid,0,984,9,3,True,20230821
+1854761,4157237317,20230329,1680116360,Direct,newsletter,organic,tablet,Edge,Macintosh,True,Europe,Spain,Madrid,0,811,5,1,False,20221204
+7605797,9001700410,20231108,1699468223,Social,bing,referral,mobile,Firefox,Macintosh,True,North America,USA,New York,0,261,1,2,True,20230711
+7945805,2654135588,20230925,1695627780,Email,newsletter,referral,tablet,Opera,Android,False,South America,Brazil,São Paulo,0,316,5,2,True,20221206
+5224142,6192338342,20230421,1682099715,Organic Search,newsletter,organic,tablet,Safari,Linux,True,Europe,Germany,Berlin,0,98,4,5,True,20230201
+3813075,5557637742,20230924,1695526463,Display,google,organic,desktop,Edge,Macintosh,True,Europe,Germany,Berlin,0,1089,10,4,True,20230202
+7336949,2512109659,20230428,1682654477,Organic Search,youtube,cpc,mobile,Edge,Macintosh,True,South America,Brazil,São Paulo,14914,1072,5,1,False,20221213
+3236062,8885971910,20230411,1681228010,Paid Search,facebook,(none),tablet,Firefox,Linux,False,Oceania,Australia,Sydney,0,485,9,4,True,20230116
+9518327,7154336332,20231030,1698659613,Display,facebook,email,mobile,Safari,Macintosh,False,South America,Brazil,São Paulo,0,675,5,5,True,20230907
+1975579,3985748581,20231102,1698925321,Referral,newsletter,email,tablet,Opera,Android,False,Oceania,Australia,Sydney,0,306,5,5,True,20230814
+4446946,3694363444,20230813,1691963656,Paid Search,google,referral,tablet,Opera,Windows,False,North America,USA,New York,0,654,1,5,True,20221218
+5358662,6912409707,20230831,1693480814,Direct,youtube,cpc,mobile,Opera,Windows,False,South America,Brazil,São Paulo,0,52,3,4,True,20230512
+9636404,1169413627,20230818,1692347003,Organic Search,newsletter,(none),desktop,Chrome,Android,False,South America,Brazil,São Paulo,0,408,2,1,False,20221208
+7803555,5393418934,20230130,1675086682,Paid Search,newsletter,email,tablet,Chrome,Windows,True,Asia,India,Nueva Delhi,13957,438,1,3,True,20221222
+5228216,2176676594,20230902,1693680715,Display,newsletter,cpc,mobile,Firefox,iOS,False,Europe,Germany,Berlin,0,130,2,4,True,20221213
+6091780,7669935167,20230121,1674267933,Organic Search,facebook,organic,tablet,Opera,iOS,True,South America,Brazil,São Paulo,0,294,1,5,True,20230118
+2912540,8513252900,20231109,1699549279,Email,newsletter,organic,desktop,Chrome,Android,True,South America,Brazil,São Paulo,0,869,7,1,False,20230122

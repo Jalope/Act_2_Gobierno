@@ -1,0 +1,192 @@
+﻿channel_id,channelGrouping,source,medium,channel_key
+1,Email,youtube,(none),Email|youtube|(none)
+2,Direct,youtube,referral,Direct|youtube|referral
+3,Email,direct,cpc,Email|direct|cpc
+4,Email,bing,organic,Email|bing|organic
+5,Referral,google,email,Referral|google|email
+6,Social,bing,organic,Social|bing|organic
+7,Email,bing,referral,Email|bing|referral
+8,Direct,newsletter,organic,Direct|newsletter|organic
+9,Direct,facebook,email,Direct|facebook|email
+10,Referral,bing,email,Referral|bing|email
+11,Referral,newsletter,organic,Referral|newsletter|organic
+12,Social,bing,cpc,Social|bing|cpc
+13,Paid Search,youtube,organic,Paid Search|youtube|organic
+14,Email,bing,email,Email|bing|email
+15,Social,youtube,organic,Social|youtube|organic
+16,Social,bing,referral,Social|bing|referral
+17,Display,direct,(none),Display|direct|(none)
+18,Social,direct,referral,Social|direct|referral
+19,Email,direct,(none),Email|direct|(none)
+20,Display,facebook,email,Display|facebook|email
+21,Direct,newsletter,cpc,Direct|newsletter|cpc
+22,Social,google,email,Social|google|email
+23,Email,google,organic,Email|google|organic
+24,Display,google,email,Display|google|email
+25,Display,direct,email,Display|direct|email
+26,Email,youtube,organic,Email|youtube|organic
+27,Referral,facebook,referral,Referral|facebook|referral
+28,Display,direct,cpc,Display|direct|cpc
+29,Referral,bing,cpc,Referral|bing|cpc
+30,Paid Search,newsletter,organic,Paid Search|newsletter|organic
+31,Display,bing,organic,Display|bing|organic
+32,Direct,youtube,email,Direct|youtube|email
+33,Direct,bing,(none),Direct|bing|(none)
+34,Referral,youtube,(none),Referral|youtube|(none)
+35,Paid Search,youtube,email,Paid Search|youtube|email
+36,Display,facebook,referral,Display|facebook|referral
+37,Paid Search,direct,(none),Paid Search|direct|(none)
+38,Organic Search,youtube,referral,Organic Search|youtube|referral
+39,Social,newsletter,referral,Social|newsletter|referral
+40,Email,newsletter,cpc,Email|newsletter|cpc
+41,Social,youtube,referral,Social|youtube|referral
+42,Referral,newsletter,(none),Referral|newsletter|(none)
+43,Organic Search,youtube,(none),Organic Search|youtube|(none)
+44,Direct,bing,cpc,Direct|bing|cpc
+45,Social,direct,email,Social|direct|email
+46,Social,facebook,(none),Social|facebook|(none)
+47,Email,facebook,(none),Email|facebook|(none)
+48,Display,youtube,email,Display|youtube|email
+49,Referral,google,cpc,Referral|google|cpc
+50,Direct,bing,organic,Direct|bing|organic
+51,Display,newsletter,organic,Display|newsletter|organic
+52,Paid Search,facebook,(none),Paid Search|facebook|(none)
+53,Paid Search,bing,organic,Paid Search|bing|organic
+54,Social,direct,(none),Social|direct|(none)
+55,Display,youtube,referral,Display|youtube|referral
+56,Paid Search,bing,cpc,Paid Search|bing|cpc
+57,Direct,facebook,organic,Direct|facebook|organic
+58,Referral,youtube,referral,Referral|youtube|referral
+59,Direct,youtube,(none),Direct|youtube|(none)
+60,Referral,bing,organic,Referral|bing|organic
+61,Referral,bing,(none),Referral|bing|(none)
+62,Organic Search,direct,referral,Organic Search|direct|referral
+63,Paid Search,google,cpc,Paid Search|google|cpc
+64,Referral,facebook,(none),Referral|facebook|(none)
+65,Referral,direct,organic,Referral|direct|organic
+66,Organic Search,direct,organic,Organic Search|direct|organic
+67,Social,facebook,cpc,Social|facebook|cpc
+68,Paid Search,youtube,cpc,Paid Search|youtube|cpc
+69,Organic Search,direct,(none),Organic Search|direct|(none)
+70,Direct,newsletter,(none),Direct|newsletter|(none)
+71,Paid Search,facebook,referral,Paid Search|facebook|referral
+72,Email,google,email,Email|google|email
+73,Email,bing,cpc,Email|bing|cpc
+74,Direct,facebook,cpc,Direct|facebook|cpc
+75,Paid Search,google,email,Paid Search|google|email
+76,Referral,direct,referral,Referral|direct|referral
+77,Email,newsletter,(none),Email|newsletter|(none)
+78,Referral,youtube,cpc,Referral|youtube|cpc
+79,Direct,google,email,Direct|google|email
+80,Direct,direct,(none),Direct|direct|(none)
+81,Referral,newsletter,cpc,Referral|newsletter|cpc
+82,Display,direct,referral,Display|direct|referral
+83,Paid Search,facebook,cpc,Paid Search|facebook|cpc
+84,Organic Search,facebook,referral,Organic Search|facebook|referral
+85,Paid Search,newsletter,referral,Paid Search|newsletter|referral
+86,Referral,google,(none),Referral|google|(none)
+87,Social,google,organic,Social|google|organic
+88,Paid Search,bing,referral,Paid Search|bing|referral
+89,Email,google,(none),Email|google|(none)
+90,Social,bing,(none),Social|bing|(none)
+91,Direct,facebook,referral,Direct|facebook|referral
+92,Organic Search,newsletter,cpc,Organic Search|newsletter|cpc
+93,Referral,google,referral,Referral|google|referral
+94,Direct,google,referral,Direct|google|referral
+95,Referral,facebook,organic,Referral|facebook|organic
+96,Direct,facebook,(none),Direct|facebook|(none)
+97,Referral,google,organic,Referral|google|organic
+98,Organic Search,facebook,(none),Organic Search|facebook|(none)
+99,Display,google,cpc,Display|google|cpc
+100,Display,google,(none),Display|google|(none)
+101,Paid Search,direct,organic,Paid Search|direct|organic
+102,Referral,youtube,email,Referral|youtube|email
+103,Paid Search,newsletter,(none),Paid Search|newsletter|(none)
+104,Direct,youtube,cpc,Direct|youtube|cpc
+105,Paid Search,facebook,organic,Paid Search|facebook|organic
+106,Paid Search,google,(none),Paid Search|google|(none)
+107,Organic Search,newsletter,organic,Organic Search|newsletter|organic
+108,Organic Search,google,email,Organic Search|google|email
+109,Display,facebook,cpc,Display|facebook|cpc
+110,Paid Search,google,organic,Paid Search|google|organic
+111,Email,youtube,referral,Email|youtube|referral
+112,Paid Search,newsletter,cpc,Paid Search|newsletter|cpc
+113,Email,google,cpc,Email|google|cpc
+114,Social,facebook,referral,Social|facebook|referral
+115,Email,facebook,cpc,Email|facebook|cpc
+116,Social,facebook,email,Social|facebook|email
+117,Email,newsletter,referral,Email|newsletter|referral
+118,Organic Search,direct,cpc,Organic Search|direct|cpc
+119,Email,youtube,cpc,Email|youtube|cpc
+120,Email,facebook,referral,Email|facebook|referral
+121,Direct,youtube,organic,Direct|youtube|organic
+122,Social,facebook,organic,Social|facebook|organic
+123,Organic Search,newsletter,(none),Organic Search|newsletter|(none)
+124,Organic Search,facebook,organic,Organic Search|facebook|organic
+125,Social,newsletter,(none),Social|newsletter|(none)
+126,Direct,direct,cpc,Direct|direct|cpc
+127,Display,bing,email,Display|bing|email
+128,Organic Search,bing,organic,Organic Search|bing|organic
+129,Organic Search,google,organic,Organic Search|google|organic
+130,Paid Search,direct,cpc,Paid Search|direct|cpc
+131,Social,youtube,email,Social|youtube|email
+132,Referral,direct,cpc,Referral|direct|cpc
+133,Display,facebook,organic,Display|facebook|organic
+134,Social,newsletter,email,Social|newsletter|email
+135,Referral,direct,(none),Referral|direct|(none)
+136,Organic Search,bing,(none),Organic Search|bing|(none)
+137,Display,youtube,(none),Display|youtube|(none)
+138,Direct,bing,referral,Direct|bing|referral
+139,Social,google,referral,Social|google|referral
+140,Email,direct,referral,Email|direct|referral
+141,Organic Search,youtube,organic,Organic Search|youtube|organic
+142,Social,direct,organic,Social|direct|organic
+143,Display,newsletter,email,Display|newsletter|email
+144,Social,youtube,(none),Social|youtube|(none)
+145,Paid Search,direct,referral,Paid Search|direct|referral
+146,Email,newsletter,email,Email|newsletter|email
+147,Organic Search,bing,cpc,Organic Search|bing|cpc
+148,Paid Search,youtube,(none),Paid Search|youtube|(none)
+149,Organic Search,google,(none),Organic Search|google|(none)
+150,Paid Search,newsletter,email,Paid Search|newsletter|email
+151,Referral,direct,email,Referral|direct|email
+152,Direct,google,(none),Direct|google|(none)
+153,Referral,youtube,organic,Referral|youtube|organic
+154,Social,newsletter,cpc,Social|newsletter|cpc
+155,Organic Search,direct,email,Organic Search|direct|email
+156,Paid Search,youtube,referral,Paid Search|youtube|referral
+157,Display,bing,(none),Display|bing|(none)
+158,Email,youtube,email,Email|youtube|email
+159,Organic Search,facebook,email,Organic Search|facebook|email
+160,Referral,newsletter,referral,Referral|newsletter|referral
+161,Display,google,referral,Display|google|referral
+162,Referral,facebook,cpc,Referral|facebook|cpc
+163,Direct,direct,referral,Direct|direct|referral
+164,Organic Search,newsletter,referral,Organic Search|newsletter|referral
+165,Display,bing,referral,Display|bing|referral
+166,Display,bing,cpc,Display|bing|cpc
+167,Display,facebook,(none),Display|facebook|(none)
+168,Referral,newsletter,email,Referral|newsletter|email
+169,Organic Search,google,cpc,Organic Search|google|cpc
+170,Organic Search,newsletter,email,Organic Search|newsletter|email
+171,Paid Search,google,referral,Paid Search|google|referral
+172,Email,newsletter,organic,Email|newsletter|organic
+173,Direct,google,organic,Direct|google|organic
+174,Direct,google,cpc,Direct|google|cpc
+175,Paid Search,bing,email,Paid Search|bing|email
+176,Paid Search,direct,email,Paid Search|direct|email
+177,Paid Search,facebook,email,Paid Search|facebook|email
+178,Social,direct,cpc,Social|direct|cpc
+179,Display,direct,organic,Display|direct|organic
+180,Paid Search,bing,(none),Paid Search|bing|(none)
+181,Email,google,referral,Email|google|referral
+182,Direct,bing,email,Direct|bing|email
+183,Direct,direct,organic,Direct|direct|organic
+184,Email,facebook,organic,Email|facebook|organic
+185,Display,newsletter,referral,Display|newsletter|referral
+186,Social,bing,email,Social|bing|email
+187,Organic Search,youtube,email,Organic Search|youtube|email
+188,Organic Search,bing,referral,Organic Search|bing|referral
+189,Display,google,organic,Display|google|organic
+190,Organic Search,youtube,cpc,Organic Search|youtube|cpc
+191,Display,newsletter,cpc,Display|newsletter|cpc

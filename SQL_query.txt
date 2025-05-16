@@ -1,0 +1,39 @@
+-- Ingresos Totales por Canal de Marketing
+SELECT
+  dc."channelGrouping" AS canal_marketing,
+  SUM(hv."transactionRevenue")/100.0 AS ingresos_usd
+FROM hechos_visitas hv
+JOIN dim_channel dc
+  ON hv."channel_id" = dc."channel_id"
+GROUP BY dc."channelGrouping"
+ORDER BY ingresos_usd DESC;
+
+-- Ingresos Totales por Usuario
+SELECT
+  fullVisitorId,
+  SUM(transactionRevenue)/100.0 AS ingresos_usd
+FROM hechos_visitas
+GROUP BY fullVisitorId
+ORDER BY ingresos_usd DESC;
+
+-- Tasa de Conversión por Canal
+SELECT
+  dc."channelGrouping" AS canal,
+  COUNT(*) FILTER (WHERE hv."transactionRevenue" > 0) * 100.0
+    / COUNT(*) AS tasa_conversion
+FROM hechos_visitas hv
+JOIN dim_channel dc
+  ON hv."channel_id" = dc."channel_id"
+GROUP BY dc."channelGrouping"
+ORDER BY tasa_conversion DESC;
+
+-- Tasa de Retención de Usuarios
+SELECT
+  COUNT(DISTINCT CASE WHEN visitNumber > 1 THEN fullVisitorId END) * 100.0
+    / COUNT(DISTINCT fullVisitorId) AS tasa_retencion
+FROM hechos_visitas;
+
+-- Tiempo Medio de Visita
+SELECT
+  AVG(sessionDuration)/60.0 AS tiempo_medio_visita_min
+FROM hechos_visitas;

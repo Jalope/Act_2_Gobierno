@@ -1,0 +1,14 @@
+version: '3'
+services:
+  metabase:
+    image: metabase/metabase
+    container_name: metabase-cmi
+    ports:
+      - 3001:3000
+    volumes:
+      - metabase-data:/metabase-data
+    environment:
+      - MB_DB_FILE=/metabase-data/metabase.db
+
+volumes:
+  metabase-data:
